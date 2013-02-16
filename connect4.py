@@ -165,6 +165,7 @@ def reverseGravity():
 	
 			
 
+
 while (pieces[2] < totalGamePlaces and (pieces[2]>1...): # main game loop
 	printLCD(0,1,turnPrint1[turn],0) # player, line, message, time (0 stay until overridden)
 	printLCD(1,1,turnPrint2[!turn],0)
